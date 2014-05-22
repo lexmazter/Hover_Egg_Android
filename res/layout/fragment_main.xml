@@ -26,6 +26,6 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
-        android:text="No device connected..." />
+        android:text="@string/setpoint_status" />
 
 </RelativeLayout>
