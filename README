@@ -1,0 +1,12 @@
+Hover Egg Android - 2014
+
+This project is developed in Eclipse with 
+Android ADT plugin on HTC One.
+
+This project consists in an interface software
+that connects to the Arduino's Bluetooth module and
+sends data to if from a SeekBar.
+
+This is the second project that links with the Arduino one.
+
+More details soon...

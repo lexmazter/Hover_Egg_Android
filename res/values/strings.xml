@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hover Egg</string>
+    <string name="action_settings">Bluetooth Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_connect">Connect</string>
+    <string name="bt_list">List devices</string>
+
+</resources>
