@@ -151,23 +151,6 @@ public class MainActivity extends Activity {
 						"No device connected!", Toast.LENGTH_LONG).show();
 		}
 		
-		private void sendIntegerToBluetooth(int buffer)
-		{
-			try
-			{
-				if( socket.isConnected() )
-				{
-					OutputStream dos = socket.getOutputStream();
-					if( socket.isConnected() )
-						dos.write(buffer);
-				}
-			}
-			catch (IOException e)
-			{
-				e.printStackTrace();
-			}
-		}
-		
 		private void sendStringToBluetooth(String c) {
 			try {
 				if (socket.isConnected()) {
